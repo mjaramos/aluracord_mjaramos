@@ -36,7 +36,8 @@ export default function PaginaInicial() {
           backgroundColor: appConfig.theme.colors.primary[200],
           backgroundImage:
             /*'url(https://virtualbackgrounds.site/wp-content/uploads/2020/08/the-matrix-digital-rain.jpg)',*/
-            'url(http://discadorinteligente.com.br/wp-content/uploads/2015/12/plano-de-fundo-discador-.png)',
+            /*'url(http://discadorinteligente.com.br/wp-content/uploads/2015/12/plano-de-fundo-discador-.png)',*/
+            appConfig.background,
           backgroundRepeat: 'no-repeat',
           backgroundSize: 'cover',
           backgroundBlendMode: 'multiply',
