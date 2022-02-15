@@ -78,7 +78,7 @@ export default function PaginaInicial() {
               marginBottom: '32px',
             }}
           >
-            <Titulo tag="h2">Boas vindas de volta!</Titulo>
+            <Titulo tag="h2">Welcome!</Titulo>
             <Text
               variant="body3"
               styleSheet={{
